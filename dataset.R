@@ -5,9 +5,6 @@ length(andy$Day)
 summary(andy)
 names(andy)
 
-
-
-fgf
 andy[1, "Weight"]
 
 andy[which(andy$Day==30), "Weight"]
@@ -56,3 +53,5 @@ median_weight("diet_data", 4)
 ## new line
 str(mtcars)
 
+
+# NEW CHANGES 
