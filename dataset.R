@@ -50,3 +50,6 @@ median_weight <- function(directory ,day){
 
 median_weight("diet_data", 4)
 
+## new line
+str(mtcars)
+
